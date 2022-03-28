@@ -1,7 +1,7 @@
 # merchants-looking-for-inbound
-Do you need inbound liquidity on your lightning node? Are you a merchant or service? 
-___________________________
-Create a new issue and answer the following questions:
+Are you a merchant or service provider looking for inbound liquidity for your lightning node? 
+
+Simply create a new issue and answer the following questions:
 
 Where can we find your store?
 

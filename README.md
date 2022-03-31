@@ -7,7 +7,9 @@ Where can we find your store?
 
 How much more liquidity would be useful? (Don't say infinity, that doesn't help!)
 
-What's your pubkey + onion address (URI) or amboss.space link?
+What's your URI so the liquidity provider can connect? ((pubkey@ip:9735) or (pubkey@toraddress:9735) or your amboss.space link)
+
+What is a good way for a routing node runner to contact you directly (optional)?
 
 Anything else you'd like us to know?
 
